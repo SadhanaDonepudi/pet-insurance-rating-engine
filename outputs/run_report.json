@@ -1,0 +1,95 @@
+{
+  "versions": [
+    {
+      "version": 1,
+      "label": "v1",
+      "filing_id": "SERFF-SYN-2024-001",
+      "effective_date": "2024-01-01",
+      "n_factor_values": 35,
+      "n_quotes": 2000,
+      "premium_min": 137.35,
+      "premium_median": 513.375,
+      "premium_max": 1915.25,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v1_deployment_summary.md"
+    },
+    {
+      "version": 2,
+      "label": "v2",
+      "filing_id": "SERFF-SYN-2024-002",
+      "effective_date": "2024-04-01",
+      "n_factor_values": 35,
+      "n_quotes": 2000,
+      "premium_min": 141.59,
+      "premium_median": 528.22,
+      "premium_max": 2535.17,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v2_deployment_summary.md"
+    },
+    {
+      "version": 3,
+      "label": "v3",
+      "filing_id": "SERFF-SYN-2024-003",
+      "effective_date": "2024-07-01",
+      "n_factor_values": 35,
+      "n_quotes": 2000,
+      "premium_min": 152.61,
+      "premium_median": 533.4200000000001,
+      "premium_max": 2007.21,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v3_deployment_summary.md"
+    },
+    {
+      "version": 4,
+      "label": "v4",
+      "filing_id": "SERFF-SYN-2024-004",
+      "effective_date": "2024-10-01",
+      "n_factor_values": 35,
+      "n_quotes": 2000,
+      "premium_min": 147.47,
+      "premium_median": 541.2149999999999,
+      "premium_max": 2127.29,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v4_deployment_summary.md"
+    },
+    {
+      "version": 5,
+      "label": "v5",
+      "filing_id": "SERFF-SYN-2025-001",
+      "effective_date": "2025-01-01",
+      "n_factor_values": 36,
+      "n_quotes": 2000,
+      "premium_min": 146.47,
+      "premium_median": 528.685,
+      "premium_max": 2679.36,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v5_deployment_summary.md"
+    },
+    {
+      "version": 6,
+      "label": "v6",
+      "filing_id": "SERFF-SYN-2025-002",
+      "effective_date": "2025-04-01",
+      "n_factor_values": 36,
+      "n_quotes": 2000,
+      "premium_min": 145.73,
+      "premium_median": 540.74,
+      "premium_max": 2392.57,
+      "uat_checks_passed": "5/5",
+      "rollbacks": 0,
+      "summary": "/home/hatch/workspace/github-projects/pet-insurance-rating-engine/outputs/deployment_summaries/v6_deployment_summary.md"
+    }
+  ],
+  "rollbacks": 0,
+  "traceability": {
+    "expected_changes": 15,
+    "audited_changes": 15,
+    "surplus_rows": 0,
+    "traceability_pct": 100.0
+  }
+}

@@ -1,0 +1,6 @@
+# Rebuildable pipeline artifact (regenerate with: python -m src.release_pipeline)
+data/*.db
+data/*.db-journal
+__pycache__/
+*.pyc
+.pytest_cache/
